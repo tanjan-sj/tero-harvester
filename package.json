@@ -1,21 +1,21 @@
 {
   "name": "harvester-api",
   "version": "1.0.0",
-  "description": "this is a test project for harvester",
+  "description": "getting data from firebase db api",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanjan-sj/terro-harvester-test.git"
+    "url": "git+https://github.com/tanjan-sj/tero-harvester.git"
   },
   "author": "Umme Sumaya Jannat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanjan-sj/terro-harvester-test/issues"
+    "url": "https://github.com/tanjan-sj/tero-harvester/issues"
   },
-  "homepage": "https://github.com/tanjan-sj/terro-harvester-test#readme",
+  "homepage": "https://github.com/tanjan-sj/tero-harvester#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "dotenv": "^10.0.0",
