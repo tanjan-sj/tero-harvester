@@ -95,4 +95,8 @@ npm i
 ```
 npm start
 ```
+- This is a POST API, and the URL for sending the request will be -
+```
+http://localhost:[port]/coin/getData
+```
 
